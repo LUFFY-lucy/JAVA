@@ -1,0 +1,17 @@
+public class HelloWorld{
+    public static void main(String[] args) {
+    	String myLove="我爱慕课网";
+        String myURL="www.imooc.com";
+		System.out.println(myLove);
+        System.out.println(myURL);
+	}
+}
+
+public class HelloWorld{
+  public static void main(String[] args){
+    String mylove='我爱慕课网';
+    String myURL='www.imooc.com';
+    System.out.println(mylove);
+    System.out.println(myURL);
+  }
+}
